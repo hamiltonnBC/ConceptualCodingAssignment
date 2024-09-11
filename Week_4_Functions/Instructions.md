@@ -42,10 +42,10 @@
 #### Setup (2 minutes)
 
 - Assign roles to students: 
-  - Python Interpreter (1 TA)
+  - Python Interpreter (1 student)
   - Variable Creators (3 students)
   - Function Runners (4 students)
-  - Cup Carriers (3 students)
+  - Cup Carriers (NA students)  - Python Interpreter will also act as the Cup Carriers
 
 #### Main Execution (10 minutes)
 
